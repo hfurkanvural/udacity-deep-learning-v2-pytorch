@@ -146,4 +146,3 @@ iterations = 6000
 learning_rate = 0.33
 hidden_nodes = 40
 output_nodes = 1
-
